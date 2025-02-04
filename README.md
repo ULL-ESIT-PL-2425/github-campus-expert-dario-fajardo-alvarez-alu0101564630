@@ -22,3 +22,14 @@
 ## Solicitar el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
+
+## Resumen de tareas
+
+| Tarea | Descripción |
+|-------|-------------|
+| Cuestionario | Realizar el cuestionario Github Alu del campus con nuestra información de github |
+| Aceptar tarea | Aceptar la tarea relacionada con esta práctica y crear el equipo individual en la organización de la asignatura siguiendo las pautas indicadas para el nombre |
+| Solicitar Backpack | Solicitar el Github Student Pack si no se dispone ya de él |
+| Crear Kanban board | Crear una tabla kanban en el proyecto de esta práctica para marcar las tareas realizadas y el progreso de la práctica |
+| Informe | Crear este informe, describiendo y demostrando el trabajo realizado en la práctica |
+| Entrega en el campus | Entregar el .zip con el repo de la práctica en la tarea pertinente del campus virtual |
